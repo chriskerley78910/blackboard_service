@@ -35,6 +35,7 @@
     "njwt": "^1.1.0",
     "proper-lockfile": "^4.1.1",
     "sinon": "^7.2.2",
+    "sinon-chai": "^3.7.0",
     "socket.io": "^2.2.0"
   }
 }
